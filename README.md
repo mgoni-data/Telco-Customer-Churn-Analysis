@@ -46,6 +46,8 @@ Markdown
 ## Dashboard
 ![Telco Customer Churn Analysis Dashboard](Dashboard/telco_dashboard.png)
 
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.goni2718)
+
 
 
 
