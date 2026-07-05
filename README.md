@@ -44,7 +44,7 @@ The company is experiencing customer attrition and wants to understand:
 Markdown
 
 ## Dashboard
-(telco_dashboard.png)
+![Telco Customer Churn Analysis Dashboard](Dashboard/telco_dashboard.png)
 
 
 
